@@ -1,5 +1,5 @@
 {
-  "name": "win-ca-tool",
+  "name": "@yakshaver/win-ca-tool",
   "version": "1.0.0",
   "description": "Export Windows CA certificates to a directory",
   "main": "main.js",
@@ -8,5 +8,22 @@
   },
   "dependencies": {
     "win-ca": "^3.5.1"
-  }
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trousyt/win-ca-tool.git"
+  },
+  "keywords": [
+    "win-ca"
+  ],
+  "author": "Troy Parkinson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trousyt/win-ca-tool/issues"
+  },
+  "homepage": "https://github.com/trousyt/win-ca-tool#readme"
 }
