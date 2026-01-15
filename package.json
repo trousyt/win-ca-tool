@@ -1,0 +1,12 @@
+{
+  "name": "win-ca-tool",
+  "version": "1.0.0",
+  "description": "Export Windows CA certificates to a directory",
+  "main": "main.js",
+  "bin": {
+    "win-ca-tool": "main.js"
+  },
+  "dependencies": {
+    "win-ca": "^3.5.1"
+  }
+}
